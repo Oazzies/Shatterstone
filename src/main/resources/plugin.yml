@@ -1,0 +1,4 @@
+name: Shatterstone
+version: '${project.version}'
+main: dev.beaconpoint.shatterstone.Main
+api-version: '1.21'
